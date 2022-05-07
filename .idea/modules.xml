@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud_gateway/cloud_gateway.iml" filepath="$PROJECT_DIR$/cloud_gateway/cloud_gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/department_service/department_service.iml" filepath="$PROJECT_DIR$/department_service/department_service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/microservices.iml" filepath="$PROJECT_DIR$/.idea/microservices.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-registry/service-registry.iml" filepath="$PROJECT_DIR$/service-registry/service-registry.iml" />
